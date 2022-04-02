@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 💬 Ask me about **Full Stack Web Development, Machine Learning, C++/DSAlgo, Cloud Computing, Salesforce CRM,CS Core subjects(DBMS,OS,CN), System Design**
+- 💬 Ask me about **Full Stack Web Development, Machine Learning, C++/DSAlgo, Cloud Computing, Salesforce CRM,CS Core Subjects(DBMS,OS,CN), System Design**
 
 - 📫 How to reach me **sidharthbhawani19@gmail.com**
 
