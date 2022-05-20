@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sidharthbhawani" target="blank"><img src="https://img.shields.io/twitter/follow/sidharthbhawani?logo=twitter&style=for-the-badge" alt="sidharthbhawani" /></a> </p>
 
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently learning **Data Engineering🤣**
 
-- 💬 Ask me about **Full Stack Web Development, AI/ML, C++/DSAlgo, Cloud Computing, Salesforce CRM,CS Core Subjects(OOPS,DBMS,OS,CN), System Design**
+- 💬 Ask me about **Data Engineering, AI/ML**
 
 - 📫 How to reach me **sidharthbhawani19@gmail.com**
 
