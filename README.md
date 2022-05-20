@@ -19,15 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sidharthbhawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidharthbhawani" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sidharth-bhawani-abb9211b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth-bhawani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14896467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14896467" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/black_mamba19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="black_mamba19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sidharthbhawani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sidharthbhawani1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sidharth_bhawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidharth_bhawani" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sidharthbhawani19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sidharthbhawani19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sidharthbhawani19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sidharthbhawani19" height="30" width="40" /></a>
-<a href="https://discord.gg/dmsgFRt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dmsgFRt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
