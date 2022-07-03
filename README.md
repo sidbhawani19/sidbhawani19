@@ -1,6 +1,6 @@
 <img align="center" width="1000" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dkxe0fwy4oc6rf71o61ro2fwerm62qwhn8ae04q8&rid=giphy.gif&ct=g">                                               
 <h1 align="center">Hi 👋, I'm Sidharth Bhawani</h1>
-<h3 align="center">Trying out to be the best in Data Engineering</h3>
+<h3 align="center">Trying out to be the best in Data Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidbhawani19&label=Profile%20views&color=0e75b6&style=flat" alt="sidbhawani19" /> </p>
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sidharthbhawani" target="blank"><img src="https://img.shields.io/twitter/follow/sidharthbhawani?logo=twitter&style=for-the-badge" alt="sidharthbhawani" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering👨‍💻**
+- 🌱 I’m currently learning **Data Analytics👨‍💻**
 
-- 💬 Ask me about **Data Engineering, AI/ML**
+- 💬 Ask me about **Data Analytics, AI/ML, Cloud Computing**
 
 - 📫 How to reach me **sidharthbhawani19@gmail.com**
 
