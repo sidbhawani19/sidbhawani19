@@ -1,5 +1,5 @@
 ## 💫 About Me:
-<h3> Hi👋! My name is Sidharth Bhawani and I'm an Aspiring Data Scientist from Jammu, India </h3>
+<h3> Hi👋! I'm Sidharth Bhawani and I'm an Aspiring Data Scientist from Jammu, India </h3>
 
 
 ## 🌐 Socials:
