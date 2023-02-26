@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
+<img align="right" height="200" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
 
 ###
 
