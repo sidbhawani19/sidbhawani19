@@ -1,42 +1,22 @@
-<h2 align="left">Hi👋! My name is Sidharth Bhawani and I'm an Aspiring Data Scientist from Jammu, India</h2>
+# 💫 About Me:
+Hi👋! My name is Sidharth Bhawani and I'm an Aspiring Data Scientist from Jammu, India
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sidbhawani19" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sidbhawani19" height="140" alt="languages graph"  />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-bhawani-abb9211b9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sidharthbhawani19) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sidbhawani19&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sidbhawani19&theme=dracula&hide_border=false)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidbhawani19&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" height="200" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sidbhawani19&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### ✍️ Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sidharth-bhawani-abb9211b9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="sidharthbhawani19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sidbhawani19/sidbhawani19/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sidbhawani19/count.svg?"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=sidbhawani19&icon=2&color=8)](https://visitcount.itsvg.in)
