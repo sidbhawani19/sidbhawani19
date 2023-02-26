@@ -9,13 +9,23 @@
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ## 📊 GitHub Stats:
+
+###
+
+<img align="right" height="210" width="300" src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif"/>
+
+###
+
 ![](https://github-readme-stats.vercel.app/api?username=sidbhawani19&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-###
-
-<img align="right" height="300" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 ###
+
+<img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+
+###
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidbhawani19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidbhawani19&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
