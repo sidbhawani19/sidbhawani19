@@ -29,6 +29,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidbhawani19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidbhawani19&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidbhawani19" alt="sidbhawani19" /></a> </p>
+
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
