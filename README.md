@@ -31,12 +31,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidbhawani19" alt="sidbhawani19" /></a> </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/sidbhawani19/sidbhawani19/output/github-contribution-grid-snake.svg">
-
-###
-
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
