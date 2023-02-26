@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sidbhawani19&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ###
 
-<img align="right" height="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+<img align="right" height="300" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 ###
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidbhawani19&theme=radical&hide_border=false)<br/>
